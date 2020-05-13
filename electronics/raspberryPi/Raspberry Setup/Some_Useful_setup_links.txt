@@ -1,0 +1,7 @@
+Balena Etcher link: https://www.balena.io/etcher/
+
+Putty link:https: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+Advanced Ip Scanner link: https://www.advanced-ip-scanner.com/
+
+VNC Viwer link : https://www.realvnc.com/en/connect/download/viewer/
